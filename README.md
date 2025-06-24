@@ -12,7 +12,7 @@ Intelligence originates from entropy-repairing mechanisms, beginning with cellul
 ```mermaid
 graph TD
   A[Big Bang (Entropy Explosion)] --> B[Genetic Singularity: Replication & Mutation]
-  B --> C[Cellular Repair: Minimal Intelligence (Enthalpy)]
+  B --> C[Cellular Repair: Minimal Intelligence(Enthalpy)]
   C --> D[Evolution of Higher Life Forms]
   D --> E[Homo Sapiens Emergence]
   E --> F[Three Major Civilizations]
