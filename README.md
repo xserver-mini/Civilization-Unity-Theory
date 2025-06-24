@@ -9,6 +9,58 @@ The Unified Theory of Civilization proposes that the evolution of human intellig
 
 Intelligence originates from entropy-repairing mechanisms, beginning with cellular repair. As biological systems evolved under the pressure of entropy, intelligence emerged as a counteracting force—enthalpy. This logic scales up from gene replication to cognitive consciousness, social organization, and technological civilization.
 
+```
+graph TD
+  A[Big Bang (Entropy Explosion)] --> B[Genetic Singularity: Replication & Mutation]
+  B --> C[Cellular Repair: Minimal Intelligence (Enthalpy)]
+  C --> D[Evolution of Higher Life Forms]
+  D --> E[Homo Sapiens Emergence]
+  E --> F[Three Major Civilizations]
+
+  F --> F1[Agricultural Civilization]
+  F --> F2[Nomadic Civilization]
+  F --> F3[Commercial Civilization]
+
+  F1 --> G1[Land Ownership → Kinship Systems → State Structures]
+  F2 --> G2[Resource Raiding → Military Empires]
+  F3 --> G3[Trade Networks → Cross-Cultural Exchange]
+
+  G3 --> H[Silk Road as Global Fusion Channel]
+  H --> I[Technology & Cultural Exchange]
+  I --> J[Collapse → Age of Exploration]
+  J --> K[Colonial Expansion & Industrial Revolution]
+
+  K --> L1[Commerce Gains Industrial Power]
+  K --> L2[Agricultural and Nomadic Decline]
+
+  L1 --> M1[Capital & Financial Systems Rise]
+  M1 --> N1[World War I: First Global Realignment]
+  N1 --> O1[World War II: Technological and Political Restructuring]
+
+  O1 --> P[Cold War: Surface Political, Underlying Civilizational Clash]
+  P --> Q1[Nomadic-Industrial Hybrid (Planned Economies)]
+  P --> Q2[Commercial-Tech Hybrid (Market Economies)]
+
+  Q1 --> R1[Collapse of Centralized Empires]
+  Q2 --> R2[Globalization Phase]
+
+  R2 --> S[Modern Contradictions: Control Regimes vs Open Systems]
+  S --> T1[Land-based Fiscal Control]
+  S --> T2[Debt-Driven Extractive Regimes]
+
+  T1 --> U[High Entropy → Collapse Risk]
+  T2 --> U
+
+  U --> V[Awakening Trigger: Rise of Artificial Intelligence]
+
+  V --> W[AGI: General Intelligence Emergence]
+  W --> X[Entropy Repair via Logic Chains (Enthalpy Intelligence)]
+  X --> Y[Multi-planetary Civilization to Avoid Systemic Collapse]
+
+  Y --> Z[Unified Cosmic Civilization → Entropic Equilibrium]
+
+```
+
 ## Foundational Chain of Logic
 
 1. **Biological Basis of Intelligence**
