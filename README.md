@@ -9,7 +9,7 @@ The Unified Theory of Civilization proposes that the evolution of human intellig
 
 Intelligence originates from entropy-repairing mechanisms, beginning with cellular repair. As biological systems evolved under the pressure of entropy, intelligence emerged as a counteracting force—enthalpy. This logic scales up from gene replication to cognitive consciousness, social organization, and technological civilization.
 
-```mermaid
+```
 graph TD
   A[Big Bang (Entropy Explosion)] --> B[Genetic Singularity: Replication & Mutation]
   B --> C[Cellular Repair: Minimal Intelligence(Enthalpy)]
